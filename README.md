@@ -1,4 +1,4 @@
-## FancyWebSite:octocat:
+## FancyWebSite:octocat::umbrella:
 
 *This is a CSS3 excersice, just to perform my Cascade Stylesheet Skills*
 
