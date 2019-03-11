@@ -1,0 +1,29 @@
+@keyframes moveInOut {
+    0% {
+        opacity: 0;
+        transform: translateY(-80px);
+    }
+
+    80%{
+        transform: translateY(5px);
+    }
+    100% {
+        opacity: 1;
+        transform: translate(0px);
+    }
+}
+
+@keyframes moveInLeft {
+    0% {
+        opacity: 0;
+        transform: translateX(-50px);
+    }
+
+    80%{
+        transform: translateX(10px);
+    }
+    100% {
+        opacity: 1;
+        transform: translate(0px);
+    }
+}
