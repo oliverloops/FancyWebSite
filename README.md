@@ -1,6 +1,7 @@
 ## FancyWebSite:octocat::umbrella:
 
 *This is a CSS3 excersice, just to perform my Cascade Stylesheet Skills*
+*I think it was beatifully designed*
 
 ### A Fancy website using top CSS3 modern features:rage3:
 
